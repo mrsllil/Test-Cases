@@ -1,4 +1,4 @@
-# Test-Cases
+# Test-Cases & Bug Reports
 
 Welcome to a collection of example test cases designed for application testing, including both web and mobile platforms.
 
